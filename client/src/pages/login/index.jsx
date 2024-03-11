@@ -26,7 +26,7 @@ function LoginPage(props) {
           <form>
             <input type="text" placeholder="Username"></input>
             <input type="password" placeholder="Password"></input>
-            <button>MASUK</button>
+            <button className="enabled">MASUK</button>
           </form>
         </div>
         <div className="card-footer">
